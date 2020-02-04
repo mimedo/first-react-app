@@ -6,6 +6,7 @@ class App extends React.Component {
     return (
       <Layout>
         <p>Test</p>
+        <p>Test Develop branch update</p>
       </Layout>
     );
   }
